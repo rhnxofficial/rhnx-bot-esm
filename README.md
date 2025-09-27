@@ -8,7 +8,7 @@
 <h1 align="center">rhnx-bot WhatsApp Bot Base (ESM)</h1>
 
 <p align="center">
-  <a href="https://github.com/rhnxofficial/rhnx-bot-esm/stargazers"><img src="https://img.shields.io/github/stars/USERNAME/NAMA-REPO?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/rhnxofficial/rhnx-bot-esm/stargazers"><img src="https://img.shields.io/github/stars/rhnxofficial/rhnx-bot-esm?style=social" alt="GitHub stars"></a>
   <a href="https://github.com/rhnxofficial/rhnx-bot-esm/blob/main/LICENSE"><img src="https://img.shields.io/github/license/rhnxofficial/rhnx-bot-esm?color=blue" alt="License"></a>
   <img src="https://img.shields.io/badge/node-%3E=18.x-brightgreen" alt="Node.js Version">
 </p>
@@ -34,8 +34,8 @@ Cocok untuk developer yang ingin membuat bot sendiri dengan sistem **plugin**, *
 
 ```bash
 # Clone repo
-git clone https://github.com/rhnxofficial/rhnx-bot.git
-cd rhnx-bot
+git clone https://github.com/rhnxofficial/rhnx-bot-esm.git
+cd rhnx-bot-esm
 
 # Install dependency
 npm install
