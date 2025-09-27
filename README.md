@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/whatsapp/whatsapp.png" alt="Logo" width="120">
+  <img src="https://raw.githubusercontent.com/rhnxofficial/Uploader/main/uploader/rhnx-LtEd.jpg" alt="Logo" width="120">
 </p>
 
 <h1 align="center">rhnx-bot WhatsApp Bot Base (ESM)</h1>
@@ -59,11 +59,7 @@ Semua fitur bot dibuat dalam bentuk plugin (.js di folder plugins).
 Ada 3 tipe utama:
 
 1. Command → Perintah dari user (misal .ping, .case).
-
-
 2. Hook → Kode otomatis sebelum/ sesudah setiap pesan.
-
-
 3. Case → Command dengan subkategori & subdeskripsi (menu rapi).
 
 
