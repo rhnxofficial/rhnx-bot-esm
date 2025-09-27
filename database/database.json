@@ -1,0 +1,106 @@
+{
+  "blockcmd": [],
+  "dashboard": [],
+  "antispam": [],
+  "banned": [],
+  "data": [],
+  "users": {
+    "6281316643491@s.whatsapp.net": {
+      "name": "Raihan Fadillah",
+      "email": "",
+      "date": "28 September 2025",
+      "hit": 0,
+      "serial": "Q0KU",
+      "registered": false,
+      "role": "Beginner",
+      "premium": false,
+      "limit": 50
+    },
+    "6281266667932@s.whatsapp.net": {
+      "name": "no name",
+      "email": "",
+      "date": "28 September 2025",
+      "hit": 0,
+      "serial": "B26S",
+      "registered": false,
+      "role": "Beginner",
+      "premium": false,
+      "limit": 50
+    },
+    "6281314228640@s.whatsapp.net": {
+      "name": "Vera Indrianu",
+      "email": "",
+      "date": "28 September 2025",
+      "hit": 0,
+      "serial": "7PVT",
+      "registered": false,
+      "role": "Beginner",
+      "premium": false,
+      "limit": 50
+    }
+  },
+  "chats": {
+    "120363419342174395@g.us": {
+      "id": "120363419342174395@g.us",
+      "name": "Group Lid",
+      "hit": 0,
+      "add": 0,
+      "welcome": false,
+      "antispam": true,
+      "simi": true,
+      "type": "group"
+    },
+    "120363343480553423@g.us": {
+      "id": "120363343480553423@g.us",
+      "name": "Siputzx Community",
+      "hit": 0,
+      "add": 0,
+      "welcome": false,
+      "antispam": true,
+      "simi": true,
+      "type": "group"
+    },
+    "120363382176107730@g.us": {
+      "id": "120363382176107730@g.us",
+      "name": "RHNX | TESTING-BOT",
+      "hit": 0,
+      "add": 0,
+      "welcome": false,
+      "antispam": true,
+      "simi": true,
+      "type": "group"
+    }
+  },
+  "chanel": {
+    "120363376667158225@newsletter": {
+      "id": "120363376667158225@newsletter",
+      "name": "120363376667158225@newsletter",
+      "desc": "",
+      "hit": 0,
+      "subscribers": 0,
+      "type": "channel"
+    },
+    "120363402649520969@newsletter": {
+      "id": "120363402649520969@newsletter",
+      "name": "120363402649520969@newsletter",
+      "desc": "",
+      "hit": 0,
+      "subscribers": 0,
+      "type": "channel"
+    }
+  },
+  "settings": {
+    "status": 1758995584822,
+    "multi": true,
+    "prefix": "!",
+    "sarancmd": false,
+    "public": true
+  },
+  "toxic": [],
+  "others": {
+    "runtime": {
+      "runtime": 1758995628019,
+      "lastTime": 1758998988128
+    }
+  }
+}
