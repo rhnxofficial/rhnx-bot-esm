@@ -5,11 +5,11 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/whatsapp/whatsapp.png" alt="Logo" width="120">
 </p>
 
-<h1 align="center">rhnx-bot — WhatsApp Bot Base (ESM)</h1>
+<h1 align="center">rhnx-bot WhatsApp Bot Base (ESM)</h1>
 
 <p align="center">
-  <a href="https://github.com/USERNAME/NAMA-REPO/stargazers"><img src="https://img.shields.io/github/stars/USERNAME/NAMA-REPO?style=social" alt="GitHub stars"></a>
-  <a href="https://github.com/USERNAME/NAMA-REPO/blob/main/LICENSE"><img src="https://img.shields.io/github/license/USERNAME/NAMA-REPO?color=blue" alt="License"></a>
+  <a href="https://github.com/rhnxofficial/rhnx-bot-esm/stargazers"><img src="https://img.shields.io/github/stars/USERNAME/NAMA-REPO?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/rhnxofficial/rhnx-bot-esm/blob/main/LICENSE"><img src="https://img.shields.io/github/license/rhnxofficial/rhnx-bot-esm?color=blue" alt="License"></a>
   <img src="https://img.shields.io/badge/node-%3E=18.x-brightgreen" alt="Node.js Version">
 </p>
 
@@ -145,13 +145,4 @@ export default {
 };
 
 
-## 🌐 Sosial & Support
-
-Kalau ada pertanyaan, bug report, atau sekadar ngobrol bareng dev lain, join komunitas:
-
-- 📱 **WhatsApp Group:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/XXXXXXX)
-- ▶️ **YouTube Channel:** [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@USERNAME)
-- 🐦 **Twitter / X:** [![Twitter](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/USERNAME)
-- 💬 **Discord Server:** [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/XXXXXXX)
-
-> Jangan lupa **subscribe & follow** buat dukung project ini terus berkembang 🙌
+ 
