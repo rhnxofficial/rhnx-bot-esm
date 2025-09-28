@@ -139,6 +139,5 @@ export default {
     // logic case
   }
 };
-
----
+```
  
