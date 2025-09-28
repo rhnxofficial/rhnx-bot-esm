@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rhnxofficial/Uploader/main/uploader/rhnx-LtEd.jpg" alt="Logo">
+  <img src="https://raw.githubusercontent.com/upload-file-lab/fileupload6/main/uploads/1758737905875.jpeg" alt="Logo">
 </p>
 
 <h1 align="center">rhnx-bot WhatsApp Bot Base (ESM)</h1>
