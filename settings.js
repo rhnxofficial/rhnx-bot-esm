@@ -43,7 +43,7 @@ function makeid(length){
 global.system = {
   sessionName: "session",
   pairingCode: true,
-  pairingNumber: "6281316643491", // nomor bot didie
+  pairingNumber: "628××××", // nomor bot didie
   runWith: "pterodactyl",
   Intervalmsg: 1000,
 };
@@ -58,7 +58,7 @@ global.baileys = {
 
 global.owner = {
   lid: "158467297935424@lid",
-  contact: "6281316643491",
+  contact: "628×××××",
   number: "6281316643491@s.whatsapp.net",
   name: "Raihan Fadillah",
   email: "ehanzdhoanx@gmail.com",
